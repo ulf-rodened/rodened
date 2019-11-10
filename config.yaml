@@ -2,7 +2,7 @@ title: RODENED
 baseURL: /
 params:
   landing_template: home
-  palette: blue
+  palette: green
   palettes:
     blue:
       sass:
