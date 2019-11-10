@@ -715,3 +715,4 @@ collections:
             label: Layout
             required: true
             default: elements
+publish_mode: editorial_workflow
