@@ -36,11 +36,13 @@ collections:
                 name: palette
                 label: Color Palette
                 required: true
-                default: blue
+                default: grey
                 hint: The color palette used for the site.
                 options:
                   - blue
                   - green
+                  - grey
+                  - white
               - widget: hidden
                 name: palettes
                 label: Palettes
